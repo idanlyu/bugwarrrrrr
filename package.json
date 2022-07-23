@@ -81,8 +81,8 @@
   "systeminformation": "^5.11.14",
   "translate-google-api": "^1.0.4",
   "util": "^0.12.4",
-  "yt-search": "^2.7.6",
-  "ytdl-core": "latest"
+  "yat-seaarch": "^2.7.6",
+  "yatdl-core": "latest"
  },
  "optionalDependencies": {
   "canvacord": "^5.2.3",
