@@ -23,4 +23,5 @@ RUN set -x \
 
 EXPOSE 8080
 
-RUN node . --db 'mongodb+srv://mongodb:BMlnA0BvE3ultitP@cluster0.mcylj5z.mongodb.net/?retryWrites=true&w=majority'
+CMD ["npm", "start"]
+
