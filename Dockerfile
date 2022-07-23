@@ -23,4 +23,4 @@ RUN set -x \
 
 EXPOSE 8080
 
-CMD ["pm2-runtime", "index.js"]`
+CMD ["node", "--db", "'mongodb+srv://mongodb:BMlnA0BvE3ultitP@cluster0.mcylj5z.mongodb.net/?retryWrites=true&w=majority'"]`
